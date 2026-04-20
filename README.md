@@ -1,4 +1,4 @@
-<h1>Raihaan Ferdous's Cybersecurity Project Portfolio! </h1>
+<h1>Raihaan Ferdous's Cybersecurity Project Portfolio </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
